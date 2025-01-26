@@ -7,5 +7,4 @@ para ejecutar el sistema, debes poner:
 ```npm install react```
 
 Prueba1
-prueba2
-prueba3
+
